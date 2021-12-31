@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Hongjie Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Professor / Graduate School of Oceanography / University of Rhode Island"
   location         : "Narragansett, Rhode Island"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=q6y6IeQAAAAJ&hl=en&oi=sra"
   email            : "hwang@uri.edu"
-  researchgate     :   "https://www.researchgate.net/profile/Hongjie-Wang-16" # example:
+  researchgate     : "https://www.researchgate.net/profile/Hongjie-Wang-16" # example:
   uri              :
   bitbucket        :
   codepen          :

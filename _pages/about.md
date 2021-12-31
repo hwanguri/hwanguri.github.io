@@ -1,12 +1,18 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Wang Carbon Group" #"academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+I was born and raised in an inland city in northern China. I had never imaged myself to be a chemical oceanographer before going to college until the first time I touched and then tasted (not recommended!) real seawater. I was amazed by ocean’s vast size, chemical composition, and role in impacting our daily lives, so I decided to do my part to protect the oceans professionally.
+
+I received an MSc degree from Xiamen University by identifying the carbon sources in fueling the formation of hypoxia in the Eastern China Sea with the stable carbon isotope. In 2013, I moved to the United States to pursue my Ph.D. at Texas A&M University-Corpus Christi. During my Ph.D. training, my research mainly focused on hypoxia formation in the Gulf of Mexico and local Texas estuaries. Meanwhile, I gradually picked up research interests in ocean acidification, a side effect of continuous CO2 uptake by the ocean. During my first round of postdoc training at the University of Delaware, I examined the interaction between ocean acidification and hypoxia in the Gulf of Mexico. I then went on to a second round of postdoctoral training at the University of Washington Cooperative Institute for Climate, Ocean, & Ecosystem Studies. I used cutting-edge, uncrewed surface vehicles to study the carbon cycle and ocean acidification in the Pacific Arctic Region. At GSO, I plan to dedicate my career to studying carbon cycle responses to global climate change and anthropogenic stressors in different ecosystems.
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

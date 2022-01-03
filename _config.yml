@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wang Carbon Group" #"Your Name / Site Title"
+title                    : "Wang Carbon Lab" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Hongjie Wang"
 description              : &description "personal description"
